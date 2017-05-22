@@ -1,0 +1,290 @@
+Id,TemplateName,VisibleToTheseUsers
+11,Nurture,""
+39,TempActionSequence 1,-1
+45,newsletter,""
+72,Default Newsletter Opt-In,""
+77,New Lead,""
+79,New Customer,""
+83,Monthly Promotions Opt Out,""
+85,New Customer Opt Out,""
+87,CustomFormCheckbox 3,""
+133,Add to Nurture Sequence,""
+135,New Customer,""
+143,TempActionSequence 1,-1
+163,Thank-you Page,""
+173,Default Double Opt-In,""
+175,Thank-you Page,""
+177,Thank-you Page,""
+179,Thank-you Page,""
+185,Add to Long-Term Nurture,""
+187,Nurture Follow-Up,""
+189,New Lead Follow-Up (Email Series),""
+191,New Customer Follow-Up,""
+193,Incoming Action Set:(Add),""
+195,Incoming Action Set:(Update),""
+197,Default Opt-out Link,""
+199,Default Double Opt-in Link,""
+201,When Someone Opts Out of All Email Marketing:,""
+203,Clicked Buy Now:,""
+205,Purchased via Buy Now:,""
+207,Thank-you Page,""
+209,"",""
+211,"",""
+212,On Login (Multi-Step Cart),""
+214,Contact Creation Action,""
+216,Successful Purchase Action,""
+218,Failed Purchase Action,""
+220,Error Purchase Action,""
+222,When moving [unknown] stage [unknown],""
+224,When moving out of stage New Prospect,""
+226,Indicate Interest through online webform,""
+228,Prospect something sequence,""
+230,TempActionSequence 2,-1
+232,Import Template - Add to Group: 9/30/2013 6:38 PM,-1
+234,Office Supplies Prospect Form,""
+236,Radio Option: Yes,-1
+238,Radio Option: No,-1
+240,Unknown,""
+242,Bounces with status 'hard bounce' at least 1 time,""
+244,Radio Option: 0 -  Not Likely,""
+246,Radio Option: 1,""
+248,Radio Option: 2,""
+250,Radio Option: 3,""
+252,Radio Option: 4,""
+254,Radio Option: 5,""
+256,Radio Option: 6,""
+258,Radio Option: 7,""
+260,Radio Option: 8,""
+262,Radio Option: 9,""
+264,Radio Option: 10 - Extremely Likely,""
+266,Radio Option: 10 -  Extremely Likely,-1
+268,Radio Option: 9,-1
+270,Radio Option: 8,-1
+272,Radio Option: 7,-1
+274,Radio Option: 6,-1
+276,Radio Option: 5,-1
+278,Radio Option: 4,-1
+280,Radio Option: 3,-1
+282,Radio Option: 2,-1
+284,Radio Option: 1,-1
+286,Radio Option: 0 - Not Likely,-1
+288,Clicked Update Credit Card link:,""
+290,Updated Credit Card via link:,""
+292,3 hole punch order form - Success,""
+294,3 hole punch order form - Failure,""
+296,When Offic Organization Monthly Tips is purchased.,""
+298,2 - When an autocharge fails and the invoice contains (Offic Organization Monthly Tips or Offic Organization Monthly Tips - Every month) on the last failure,""
+300,When a card of type 'Any Type'  will expire in 30 days,""
+302,Fills out referral partner web form,""
+304,Indicate Interest Photoshop Intermediate Lesson,""
+306,Sign up for newsletter,""
+308,When CustomerHub Paid Subscription is purchased.,""
+310,"",""
+312,"",""
+314,"",""
+316,"",""
+318,Facebook Share,""
+320,Twitter Share,""
+322,Google Share,""
+324,something,""
+326,TempActionSequence 4,-1
+328,Facebook Share,""
+330,Twitter Share,""
+332,Google Share,""
+334,Auto-charge Test - Success,""
+336,Auto-charge Test - Failure,""
+338,4 - When an autocharge fails and the invoice co...,""
+340,6 - When an autocharge fails and the invoice co...,""
+342,Something,""
+344,Sign up for newsletter,""
+346,Test - Success,""
+348,Test - Failure,""
+350,Register for an event,""
+352,Sign up for newsletter,""
+354,Default Opt-Out,""
+356,When anything is purchased.,""
+358,Health Food Bars,""
+360,"",""
+362,test,""
+364,Radio Option: red,-1
+366,Radio Option: blue,-1
+368,Sign up for newsletter,""
+370,testtest,""
+372,web form on my site,""
+374,"",""
+376,"",""
+378,Sign up for newsletter,""
+380,Sign up for newsletter,""
+382,8 - When an autocharge fails and the invoice contains (any product) on the 1st failure,""
+384,Radio Option: Chat,-1
+386,Radio Option: Phones,-1
+388,Real Color Shirt Form,""
+390,TEST,""
+392,Send Attachment Email,""
+394,"",""
+396,Facebook Share,""
+398,Twitter Share,""
+400,Google Share,""
+402,Facebook Share,""
+404,Twitter Share,""
+406,Google Share,""
+408,Facebook Share,""
+410,Twitter Share,""
+412,Google Share,""
+414,Send Email,""
+416,TempActionSequence 6,-1
+418,TempActionSequence 8,-1
+420,Sign up for newsletter,""
+422,"",""
+424,TempActionSequence 10,-1
+426,Config / Setup Web Form,""
+428,TempActionSequence 12,-1
+430,TempActionSequence 14,-1
+432,"",""
+434,Corp Draw Playmat,""
+436,Sign up for newsletter,""
+438,"",""
+440,Opt Out,""
+442,Checkbox: Strong Bad,-1
+444,Checkbox: Checkbox,-1
+446,Sign up for newsletter,""
+448,Sign up for newsletter,""
+450,Assign Current Date to custom field,""
+452,Sign up for newsletter,""
+454,"",""
+456,Checkbox: Checkbox,-1
+460,When anything is purchased.,""
+462,CHUB test,""
+464,TempActionSequence 16,-1
+466,TEST,""
+468,New Auto Link,""
+470,Facebook Share,""
+472,Twitter Share,""
+474,Google Share,""
+476,TEST,""
+478,TempActionSequence 18,-1
+480,TempActionSequence 20,-1
+482,TempActionSequence 22,-1
+484,TempActionSequence 24,-1
+486,Radio Actions,-1
+488,Radio Actions,-1
+490,Radio Option: stuff,-1
+492,Radio Option: things,-1
+494,Checkbox: Checkbox,-1
+496,Birthday Collection,""
+498,"",""
+500,Email Builder Link,""
+502,Email Builder Link,""
+504,Email Builder Link,""
+506,TEST DIRECT NOTIFICATIONS,""
+508,Deleting a tag,""
+510,TempActionSequence 26,-1
+512,TempActionSequence 28,-1
+514,"",""
+516,digital product,""
+518,"",""
+520,http://www.yourcompany.com,""
+522,Checkbox: Checkbox,-1
+524,Checkbox: Checkbox,-1
+526,Radio Option: 1,-1
+528,Radio Option: 2,-1
+530,Radio Option: 3,-1
+532,Radio Option: 4,-1
+534,Sign up for newsletter,""
+536,Sign up for newsletter,""
+538,Default Legacy Form,""
+540,Sign up for newsletter,""
+542,Sign up for newsletter,""
+544,Super Legacy,""
+546,"",""
+548,Sign up for newsletter,""
+550,Send Responsive Test,""
+552,Send Mobile Responsive Email,""
+554,TempActionSequence 30,-1
+556,TempActionSequence 32,-1
+558,Lead Source Test,""
+560,TempActionSequence 34,-1
+562,Sign up for newsletter,""
+564,Webform 1,""
+566,Webform 2,""
+568,"",""
+570,Register for an event,""
+572,When a card of type 'Any Type'  expires today,""
+574,"",""
+576,Attachment,""
+578,Mailer@ test,""
+580,Radio Actions,-1
+582,Radio Actions,-1
+584,http://www.yourcompany.com,""
+586,http://www.yourcompany.com,""
+588,http://www.google.com,""
+590,Facebook Share,""
+592,Twitter Share,""
+594,Google Share,""
+596,Radio Option: Something,-1
+598,Radio Option: Something Else,-1
+600,Checkbox: Checkbox,-1
+602,TempActionSequence 36,-1
+604,"",""
+606,Close Window Thank You Page,""
+608,"",""
+610,2 - When an autocharge fails and the invoice co...,""
+612,Radio Actions,-1
+614,Radio Actions,-1
+616,YOLOP NPS,""
+618,"",""
+620,You Tube,-1
+622,Send HTTP Post,""
+624,TempActionSequence 38,-1
+626,DELETE ME,""
+628,HTTP post to spreadsheet,""
+630,"",""
+632,"",""
+634,Import Template - Add to Group: 5/19/2015 12:33 PM,-1
+636,TempActionSequence 40,-1
+638,Facebook Share,""
+640,Twitter Share,""
+642,Google Share,""
+644,Email Builder Link,""
+646,Email Builder Link,""
+648,Email Builder Link,""
+650,"",""
+652,http://www.yourcompany.com,""
+654,http://www.yourcompany.com,""
+656,Shipping Order,""
+658,tesT,""
+660,Send Emoji email,""
+662,Sign up for newsletter,""
+664,TempActionSequence 42,-1
+666,Radio Option: Stuff,-1
+668,Radio Option: Things,-1
+670,Sign up for newsletter,""
+671,TempActionSequence 43,-1
+674,Import Template - Add to Group: 8/12/2015 3:13 PM,-1
+676,TempActionSequence 44,-1
+678,Import Template - Add to Group: 8/12/2015 4:45 PM,-1
+680,Request Slides,""
+682,Send Confirm,""
+684,TempActionSequence 46,-1
+686,Manual Purchase,""
+688,Radio Option: One,-1
+690,Radio Option: Two,-1
+692,Import Template - Add to Group: 11/25/2015 12:06 PM,-1
+694,TempActionSequence 48,-1
+696,Import Template - Add to Group: 1/20/2016 5:18 PM,-1
+698,TempActionSequence 50,-1
+700,Import Template - Add to Group: 2/11/2016 4:39 PM,-1
+702,Shippable,""
+704,TempActionSequence 52,-1
+706,Lead Source,""
+708,TempActionSequence 54,-1
+710,"",""
+712,Test,""
+714,Import Template - Add to Group: 10/19/2016 6:08 PM,-1
+716,TempActionSequence 56,-1
+718,Import Template - Add to Group: 12/19/2016 7:36 PM,-1
+720,TempActionSequence 58,-1
+722,Import Template - Add to Group: 2/22/2017 11:36 AM,-1
+724,TempActionSequence 60,-1
+726,Import Template - Add to Group: 2/22/2017 11:37 AM,-1
+728,TempActionSequence 62,-1

@@ -1,5 +1,6 @@
 <h1><%= @tablename %></h1>
 <%= link_to 'Download CSV', "/#{@appname}/#{@tablename}.csv" %>
+<%= link_to '<< Back', root_url %>
 <table border="1" style="width:100%">
 	<tr>
 		<% @fields.each do |field| %>

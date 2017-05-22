@@ -1,0 +1,17 @@
+<h1><%= @tablename %></h1>
+<%= link_to 'Download CSV', "/#{@appname}/#{@tablename}.csv" %>
+<table border="1" style="width:100%">
+	<tr>
+		<% @fields.each do |field| %>
+		<th><%= field %></th>
+		<% end %>
+	</tr>
+<% @data.each do |row| %>
+	<tr>
+		<% @fields.each do |field| %>
+		<% row["#{field}"] = row["#{field}"].to_time.to_s if row["#{field}"].is_a? XMLRPC::DateTime %>
+		<td><%= row["#{field}"] %></td>
+		<% end %>
+	</tr>
+<% end %>
+</table>

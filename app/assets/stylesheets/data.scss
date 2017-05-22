@@ -1,0 +1,22 @@
+// Place all the styles related to the data controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.form-container {
+	text-align:center;
+	border: 1px solid black;
+	width: 400px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+input#appname, #src_appname, #dest_appname {
+	width: 50px;
+}
+
+input#apikey, #src_apikey, #dest_apikey {
+	width: 100%;
+}
+
+label {
+	text-align: left;
+}

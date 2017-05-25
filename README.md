@@ -1,24 +1,9 @@
-# README
+# Infusionsoft API Tools
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This program currently only has the Table Getter tool, but has the possibility to be added upon in the future.
 
-Things you may want to cover:
+To use the Table Getter, simply grab the application name and [API key](http://help.infusionsoft.com/userguides/get-started/tips-and-tricks/api-key), and choose a table name from the dropdown.  Here is a [list](https://developer.infusionsoft.com/docs/table-schema/) of all of the available tables and their fields.
 
-* Ruby version
+Once you hit the "Request Table" button, the program will get all records for the selected table.  You are then able to review the data on the page, or click the link at the top to download the data as a CSV.  
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you have any problems, encounter any bugs, or would like to request a feature, please do so here: https://github.com/joshfullmer/InfusionsoftAPITools/issues.  

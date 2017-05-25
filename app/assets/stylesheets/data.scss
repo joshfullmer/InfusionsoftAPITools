@@ -20,3 +20,26 @@ input#apikey, #src_apikey, #dest_apikey {
 label {
 	text-align: left;
 }
+
+button[type="submit"] {
+  width: 10em;
+  height: 3em;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;
+}
+
+:-ms-input-placeholder {
+   text-align: center;
+}

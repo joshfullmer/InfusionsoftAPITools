@@ -51,7 +51,7 @@ class DataController < ApplicationController
           @fields.each do |header|
             hash[header].nil? ? real_hash[header] = '' : real_hash[header] = hash[header]
           end
-          csv << real_hash.values
+          csv << real_hash.values.map{|v| v.to_s.force_encoding('iso-8859-1').encode('utf-8')}
         end
       end
     end

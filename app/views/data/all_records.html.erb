@@ -1,17 +1,22 @@
 <div class="form-container">
 <h2>Get Infusionsoft Tables</h2>
 <%= form_tag({action: :get_records}, multipart: true) do %>
-	</br>
+	<br />
 	<%= text_field_tag :appname, nil, placeholder: 'appname' %>
 	.infusionsoft.com
-	</br>
-	</br>
+	<br />
+	<br />
 	<%= text_field_tag :apikey, nil, placeholder: 'API Key' %>
-	</br>
-	</br>
+	<br />
+	<br />
 	<%= select_tag(:tablename, options_for_select(@tables)) %>
 	<%= check_box_tag :csv,1,true %>
 	<%= label_tag(:csv, "CSV?") %>
+	<br />
+	<br />
+	<%= label_tag :idnumbers, 'Comma Separated List of IDs' %>
+	<br />
+	<%= text_field_tag :idnumbers, nil, placeholder: 'ID number(s)' %>
 	<br />
 	<br />
 	<%= button_tag "Request Tables" %>

@@ -33,6 +33,12 @@ button[type="submit"] {
   display: block;
 }
 
+label[for=idnumbers] {
+  font-size: 12px;
+  font-style: italic;
+  color: #b2b2b2;
+}
+
 /* PLACEHOLDER SYLTING */
 
 ::-webkit-input-placeholder {

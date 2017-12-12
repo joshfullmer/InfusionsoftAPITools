@@ -1,0 +1,2 @@
+AffiliateId,ContactId,CreditStatus,DateCreated,Description,Id,InvoiceTotal,InvoiceType,JobId,LastUpdated,LeadAffiliateId,PayPlanStatus,PayStatus,ProductSold,PromoCode,RefundStatus,Synced,TotalDue,TotalPaid
+0,298732,0,2017-10-11 15:24:50 UTC,One-time: ,1369596,920.0,Offline,1369688,2017-11-01 13:52:49 UTC,0,1,1,"4988,4824","",0,false,920.0,920.0
